@@ -1,6 +1,5 @@
 # DiseasePredictor
 
-<h1>Disease Prediction using Deep Neural Network (DNN)</h1><br />
 Predicts Top 3 Diseases Based on Symptoms<br />
 This project applies deep learning to predict medical conditions based on patient symptoms. Using a dataset of 132 symptoms mapped to 41 diseases, we train a neural network classifier that assists in the early diagnosis of diseases, potentially helping healthcare professionals make faster decisions.
 
@@ -18,3 +17,8 @@ Neural Network Architecture<br />
 Training Configuration<br />
 • 20 epochs<br />
 • Batch size of 32
+
+<h1>How To Run</h1>
+• Clone the repo<br />
+• Install requirements: pip install gradio numpy tensorflow<br />
+• python App.py<br />
